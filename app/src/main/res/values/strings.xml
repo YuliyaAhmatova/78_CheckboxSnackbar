@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">78_CheckboxSnackbar</string>
+    <string name="output_info">Поле вывода информации</string>
+    <string name="input_info">Поле ввода информации</string>
+    <string name="save_data">Сохранить данные</string>
+    <string name="delete_data">Удалить данные</string>
+</resources>
